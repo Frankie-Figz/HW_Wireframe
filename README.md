@@ -1,6 +1,6 @@
 HW_Wireframe
 
-	This home consists of an example web page consisting of a header, a navigation section, a body divided in two parts and a footer.
+This home consists of an example web page consisting of a header, <br> a navigation section, a body divided in two parts and a footer.
 	
 	The body section is the most complicated; the left side is floated left and the right side is floated right. 
 
