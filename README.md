@@ -6,4 +6,6 @@ The body section is the most complicated; the left side is floated left and the 
 
 The left side has a section header called "section" and a sub-section for "article", "h1,h2,h3" and "p". <br> 
 
-Most of the dimensions were handled in percentages in order to manage the re-sizing adaquately. <br> 
+Most of the dimensions were handled in percentages in order to manage the re-sizing adaquately. <br>
+
+To view the generation of this website go to : https://frankie-figz.github.io/HW_Wireframe/ <br> 
